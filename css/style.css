@@ -1,0 +1,20 @@
+body {
+  padding-top: 60px;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  height: 90vh;
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+              url("../images/hero.jpg") no-repeat center/cover;
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+footer i {
+  font-size: 20px;
+  cursor: pointer;
+}
